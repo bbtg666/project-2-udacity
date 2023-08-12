@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=955beaa7-082f-40a6-98bf-6363f1f950a9;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=giangproject29fc3;AccountKey=0ADPCkNaVtKwDA3ZJVGGwnIongoLyKu1PXvGE1udvdmxxlvywFjNpA3sv1tRWicAocn6pBjdL0AX+AStc6xAvg==;EndpointSuffix=core.windows.net",
+    "COSMOSDB_CONNECTION_STRING": "mongodb://giangnt:otVhrTq30TTo66QacPJhZ2fQQzbZsgnxv0uX9jnRAzI8qiG2i9Hk58rtnpodZtahlcEtq840GTMyACDbT6CQuQ%3D%3D@giangnt.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@giangnt@",
+    "MONGO_DATABASE": "giangproject2",
+    "FUNCTIONS_EXTENSION_VERSION": "~4"
+  }
+}

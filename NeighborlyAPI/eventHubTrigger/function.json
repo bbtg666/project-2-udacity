@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "event",
+      "direction": "in",
+	  "eventHubName": "giang-project-2-udacity-event-hub", 
+	  "connection": "EVENT_HUB_CONNECTION_STRING"
+    }
+  ]
+}
+
